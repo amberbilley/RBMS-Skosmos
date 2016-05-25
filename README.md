@@ -8,6 +8,8 @@
 Skosmos
 =======
 
+THIS IS THE TEST INSTANCE OF SKOSMOS FOR THE RBMS VOCABULARIES.
+
 Skosmos is a web-based tool providing services for accessing controlled
 vocabularies, which are used by indexers describing documents and searchers
 looking for suitable keywords. Vocabularies are accessed via SPARQL
